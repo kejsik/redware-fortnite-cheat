@@ -1,0 +1,4 @@
+purple 37, 19, 84
+light blue 0, 198, 242
+selected tab 98, 57, 204
+hovered tab 70, 41, 145
